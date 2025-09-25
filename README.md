@@ -1,4 +1,4 @@
-<h1 align="center">👗 Fashion App Landing Page</h1>
+<h1 align="center">Fashion App Landing Page</h1>
 
 <p align="center">
    <i>A sleek and modern landing page built with <b>React + Vite + TailwindCSS</b>, designed to showcase fashion products and brand aesthetics. Developed as part of the <b>BAEon Internship</b>.</i>
@@ -11,13 +11,7 @@
   <img src="https://img.shields.io/badge/Deployed-GitHub%20Pages-brightgreen?style=for-the-badge&logo=github" />
 </p>
 
----
 
-## 🌐 Live Demo
-
-👉 [Fashion App Landing Page](https://nivac05.github.io/Fashion-App-landing-page/)
-
----
 
 ## 📸 Screenshots
 
